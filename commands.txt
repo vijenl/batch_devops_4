@@ -5,4 +5,7 @@ git rm --cached commands.txt
 git commit -m "adding commands"
 git log 
 git restore commands.txt
-[[O
+git log
+git --oneline
+git config --global user.name ""
+git ocnfig --global user.email ""
